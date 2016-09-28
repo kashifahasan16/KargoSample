@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="KargoSample" parallel="tests">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="userName" value="kashifa"/>
+    <parameter name="accessKey" value="9c614a02-865d-4af6-b227-346f89ef0f84"/>
+    <parameter name="os" value="mac"/>
+    <parameter name="browserName" value="firefox"/>
+    <parameter name="browserVersion" value="47.1"/>
+    <parameter name="url" value="http://www.kargo.com/"/>
+    <test name = "KargoSample">
+    <classes>
+        <class name="GoogleSearch.TC1"/>
+        <class name="GoogleSearch.TC2"/>
+    </classes>
+</test>
+</suite>

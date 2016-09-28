@@ -1,0 +1,529 @@
+[INFO  - 2016-09-13T20:07:32.386Z] GhostDriver - Main - running on port 4698
+[INFO  - 2016-09-13T20:07:32.705Z] Session [b4af82b0-79ed-11e6-b963-cde9e42c3b04] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-09-13T20:07:32.705Z] Session [b4af82b0-79ed-11e6-b963-cde9e42c3b04] - page.customHeaders:  - {}
+[INFO  - 2016-09-13T20:07:32.705Z] Session [b4af82b0-79ed-11e6-b963-cde9e42c3b04] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-09-13T20:07:32.706Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b4af82b0-79ed-11e6-b963-cde9e42c3b04
+[ERROR - 2016-09-13T20:07:58.755Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1473797278700
+[INFO  - 2016-09-13T20:08:05.182Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-09-18T04:54:18.752Z] GhostDriver - Main - running on port 48475
+[INFO  - 2016-09-18T04:54:19.165Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-09-18T04:54:19.165Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.customHeaders:  - {}
+[INFO  - 2016-09-18T04:54:19.165Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-09-18T04:54:19.165Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f5419270-7d5b-11e6-9485-9dd9a3bc7705
+[ERROR - 2016-09-18T04:54:22.641Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-09-18T04:54:22.641Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1048)
+[ERROR - 2016-09-18T04:54:23.103Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.104Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1163)
+[ERROR - 2016-09-18T04:54:23.104Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.104Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1167)
+[ERROR - 2016-09-18T04:54:23.104Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.104Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1170)
+[ERROR - 2016-09-18T04:54:23.105Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.105Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1174)
+[ERROR - 2016-09-18T04:54:23.105Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.105Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1177)
+[ERROR - 2016-09-18T04:54:23.105Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.105Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1181)
+[ERROR - 2016-09-18T04:54:23.105Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.106Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1181)
+[ERROR - 2016-09-18T04:54:23.106Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.106Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1184)
+[ERROR - 2016-09-18T04:54:23.106Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.107Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1187)
+[ERROR - 2016-09-18T04:54:23.107Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.107Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1190)
+[ERROR - 2016-09-18T04:54:23.107Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.107Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1193)
+[ERROR - 2016-09-18T04:54:23.136Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.136Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1196)
+[ERROR - 2016-09-18T04:54:23.136Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.136Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1200)
+[ERROR - 2016-09-18T04:54:23.137Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.137Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1203)
+[ERROR - 2016-09-18T04:54:23.137Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.137Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1230)
+[ERROR - 2016-09-18T04:54:23.157Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:23.157Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1210)
+[ERROR - 2016-09-18T04:54:29.756Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-09-18T04:54:29.756Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aapples:1048)
+[ERROR - 2016-09-18T04:54:31.426Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-09-18T04:54:31.426Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1048)
+[ERROR - 2016-09-18T04:54:31.695Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.786Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1172)
+[ERROR - 2016-09-18T04:54:31.786Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.787Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1175)
+[ERROR - 2016-09-18T04:54:31.839Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.839Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1178)
+[ERROR - 2016-09-18T04:54:31.840Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.840Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1181)
+[ERROR - 2016-09-18T04:54:31.840Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.840Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1184)
+[ERROR - 2016-09-18T04:54:31.840Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.840Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1187)
+[ERROR - 2016-09-18T04:54:31.841Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.841Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1190)
+[ERROR - 2016-09-18T04:54:31.841Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.841Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1193)
+[ERROR - 2016-09-18T04:54:31.841Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.841Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1196)
+[ERROR - 2016-09-18T04:54:31.842Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.842Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1199)
+[ERROR - 2016-09-18T04:54:31.842Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.842Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1202)
+[ERROR - 2016-09-18T04:54:31.842Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.842Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1205)
+[ERROR - 2016-09-18T04:54:31.843Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.843Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1208)
+[ERROR - 2016-09-18T04:54:31.843Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.843Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1211)
+[ERROR - 2016-09-18T04:54:31.925Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:31.925Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1214)
+[ERROR - 2016-09-18T04:54:35.029Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-09-18T04:54:35.029Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1048)
+[ERROR - 2016-09-18T04:54:35.488Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.488Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1163)
+[ERROR - 2016-09-18T04:54:35.489Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.489Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1167)
+[ERROR - 2016-09-18T04:54:35.489Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.489Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1171)
+[ERROR - 2016-09-18T04:54:35.489Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.490Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1175)
+[ERROR - 2016-09-18T04:54:35.490Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.490Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1179)
+[ERROR - 2016-09-18T04:54:35.490Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.490Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1183)
+[ERROR - 2016-09-18T04:54:35.490Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.490Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1187)
+[ERROR - 2016-09-18T04:54:35.491Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.491Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1191)
+[ERROR - 2016-09-18T04:54:35.491Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.491Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1195)
+[ERROR - 2016-09-18T04:54:35.524Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.525Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1198)
+[ERROR - 2016-09-18T04:54:35.525Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.525Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1202)
+[ERROR - 2016-09-18T04:54:35.525Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.525Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1206)
+[ERROR - 2016-09-18T04:54:35.525Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.525Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1210)
+[ERROR - 2016-09-18T04:54:35.526Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.526Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1214)
+[ERROR - 2016-09-18T04:54:35.526Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.526Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1218)
+[ERROR - 2016-09-18T04:54:35.527Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:35.527Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1222)
+[ERROR - 2016-09-18T04:54:37.429Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-09-18T04:54:37.429Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1048)
+[ERROR - 2016-09-18T04:54:37.831Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.832Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1163)
+[ERROR - 2016-09-18T04:54:37.832Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.832Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1167)
+[ERROR - 2016-09-18T04:54:37.832Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.832Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1171)
+[ERROR - 2016-09-18T04:54:37.833Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.833Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1175)
+[ERROR - 2016-09-18T04:54:37.833Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.833Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1179)
+[ERROR - 2016-09-18T04:54:37.834Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.834Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1183)
+[ERROR - 2016-09-18T04:54:37.834Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.834Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1186)
+[ERROR - 2016-09-18T04:54:37.834Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.835Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1190)
+[ERROR - 2016-09-18T04:54:37.835Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.835Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1193)
+[ERROR - 2016-09-18T04:54:37.835Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.835Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1197)
+[ERROR - 2016-09-18T04:54:37.836Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.836Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1200)
+[ERROR - 2016-09-18T04:54:37.871Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.871Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1203)
+[ERROR - 2016-09-18T04:54:37.871Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.871Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1206)
+[ERROR - 2016-09-18T04:54:37.872Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.872Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1210)
+[ERROR - 2016-09-18T04:54:37.873Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.873Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1214)
+[ERROR - 2016-09-18T04:54:37.874Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:37.874Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1218)
+[ERROR - 2016-09-18T04:54:40.070Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-09-18T04:54:40.070Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1048)
+[ERROR - 2016-09-18T04:54:40.688Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:40.688Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1163)
+[ERROR - 2016-09-18T04:54:40.688Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:40.688Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1175)
+[ERROR - 2016-09-18T04:54:40.690Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:40.690Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1166)
+[ERROR - 2016-09-18T04:54:40.698Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:40.698Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1172)
+[ERROR - 2016-09-18T04:54:40.700Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:40.700Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1178)
+[ERROR - 2016-09-18T04:54:40.843Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:40.843Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1169)
+[ERROR - 2016-09-18T04:54:40.847Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:40.847Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1184)
+[ERROR - 2016-09-18T04:54:40.847Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:40.847Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1181)
+[ERROR - 2016-09-18T04:54:40.850Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:40.850Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1187)
+[ERROR - 2016-09-18T04:54:40.926Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:40.926Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1190)
+[ERROR - 2016-09-18T04:54:40.926Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:40.927Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1193)
+[ERROR - 2016-09-18T04:54:41.037Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:41.037Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1199)
+[ERROR - 2016-09-18T04:54:41.037Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:41.038Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1196)
+[ERROR - 2016-09-18T04:54:41.038Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:41.038Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1205)
+[ERROR - 2016-09-18T04:54:41.038Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:41.039Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1202)
+[ERROR - 2016-09-18T04:54:41.039Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:54:41.039Z] Session [f5419270-7d5b-11e6-9485-9dd9a3bc7705] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1208)
+[INFO  - 2016-09-18T04:54:41.232Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2016-09-18T04:54:55.985Z] GhostDriver - Main - running on port 21006
+[INFO  - 2016-09-18T04:54:57.032Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-09-18T04:54:57.032Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.customHeaders:  - {}
+[INFO  - 2016-09-18T04:54:57.032Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-09-18T04:54:57.032Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0bd35000-7d5c-11e6-9809-d50b7113b2cc
+[ERROR - 2016-09-18T04:55:01.564Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-09-18T04:55:01.564Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1048)
+[ERROR - 2016-09-18T04:55:01.831Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.831Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1163)
+[ERROR - 2016-09-18T04:55:01.831Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.832Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1167)
+[ERROR - 2016-09-18T04:55:01.832Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.832Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1170)
+[ERROR - 2016-09-18T04:55:01.832Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.833Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1174)
+[ERROR - 2016-09-18T04:55:01.833Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.833Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1177)
+[ERROR - 2016-09-18T04:55:01.833Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.833Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1181)
+[ERROR - 2016-09-18T04:55:01.834Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.834Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1181)
+[ERROR - 2016-09-18T04:55:01.835Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.835Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1184)
+[ERROR - 2016-09-18T04:55:01.835Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.835Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1187)
+[ERROR - 2016-09-18T04:55:01.835Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.836Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1190)
+[ERROR - 2016-09-18T04:55:01.836Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.836Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1193)
+[ERROR - 2016-09-18T04:55:01.851Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.851Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1196)
+[ERROR - 2016-09-18T04:55:01.851Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.851Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1200)
+[ERROR - 2016-09-18T04:55:01.852Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.852Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1203)
+[ERROR - 2016-09-18T04:55:01.853Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.853Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1230)
+[ERROR - 2016-09-18T04:55:01.928Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:01.928Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Afruits:1210)
+[ERROR - 2016-09-18T04:55:08.752Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-09-18T04:55:08.763Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aapples:1048)
+[ERROR - 2016-09-18T04:55:09.892Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-09-18T04:55:09.892Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1048)
+[ERROR - 2016-09-18T04:55:10.088Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.088Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1172)
+[ERROR - 2016-09-18T04:55:10.088Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.088Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1175)
+[ERROR - 2016-09-18T04:55:10.089Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.089Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1178)
+[ERROR - 2016-09-18T04:55:10.089Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.090Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1181)
+[ERROR - 2016-09-18T04:55:10.090Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.090Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1184)
+[ERROR - 2016-09-18T04:55:10.090Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.091Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1187)
+[ERROR - 2016-09-18T04:55:10.100Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.100Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1202)
+[ERROR - 2016-09-18T04:55:10.102Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.104Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1196)
+[ERROR - 2016-09-18T04:55:10.104Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.104Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1199)
+[ERROR - 2016-09-18T04:55:10.201Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.201Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1193)
+[ERROR - 2016-09-18T04:55:10.203Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.203Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1190)
+[ERROR - 2016-09-18T04:55:10.203Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.206Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1205)
+[ERROR - 2016-09-18T04:55:10.210Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.213Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1208)
+[ERROR - 2016-09-18T04:55:10.214Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.223Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1214)
+[ERROR - 2016-09-18T04:55:10.235Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:10.236Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aiphone:1211)
+[ERROR - 2016-09-18T04:55:14.122Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-09-18T04:55:14.122Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1048)
+[ERROR - 2016-09-18T04:55:14.462Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.463Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1163)
+[ERROR - 2016-09-18T04:55:14.531Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.531Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1167)
+[ERROR - 2016-09-18T04:55:14.532Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.532Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1171)
+[ERROR - 2016-09-18T04:55:14.532Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.532Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1175)
+[ERROR - 2016-09-18T04:55:14.533Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.533Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1179)
+[ERROR - 2016-09-18T04:55:14.533Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.533Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1183)
+[ERROR - 2016-09-18T04:55:14.533Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.533Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1187)
+[ERROR - 2016-09-18T04:55:14.534Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.534Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1191)
+[ERROR - 2016-09-18T04:55:14.534Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.534Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1195)
+[ERROR - 2016-09-18T04:55:14.534Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.534Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1198)
+[ERROR - 2016-09-18T04:55:14.535Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.535Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1202)
+[ERROR - 2016-09-18T04:55:14.535Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.535Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1206)
+[ERROR - 2016-09-18T04:55:14.535Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.535Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1210)
+[ERROR - 2016-09-18T04:55:14.535Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.536Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1214)
+[ERROR - 2016-09-18T04:55:14.536Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.536Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1218)
+[ERROR - 2016-09-18T04:55:14.537Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:14.537Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aselenium:1222)
+[ERROR - 2016-09-18T04:55:16.263Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-09-18T04:55:16.263Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1048)
+[ERROR - 2016-09-18T04:55:16.515Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.515Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1163)
+[ERROR - 2016-09-18T04:55:16.515Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.515Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1167)
+[ERROR - 2016-09-18T04:55:16.515Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.516Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1171)
+[ERROR - 2016-09-18T04:55:16.516Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.516Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1175)
+[ERROR - 2016-09-18T04:55:16.516Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.516Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1179)
+[ERROR - 2016-09-18T04:55:16.516Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.516Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1183)
+[ERROR - 2016-09-18T04:55:16.517Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.517Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1186)
+[ERROR - 2016-09-18T04:55:16.517Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.517Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1190)
+[ERROR - 2016-09-18T04:55:16.518Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.518Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1193)
+[ERROR - 2016-09-18T04:55:16.518Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.518Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1197)
+[ERROR - 2016-09-18T04:55:16.518Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.518Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1200)
+[ERROR - 2016-09-18T04:55:16.544Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.544Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1203)
+[ERROR - 2016-09-18T04:55:16.544Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.544Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1206)
+[ERROR - 2016-09-18T04:55:16.544Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.544Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1210)
+[ERROR - 2016-09-18T04:55:16.545Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.545Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1214)
+[ERROR - 2016-09-18T04:55:16.546Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:16.546Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Amanganese:1218)
+[ERROR - 2016-09-18T04:55:18.798Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: ue
+[ERROR - 2016-09-18T04:55:18.798Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  (anonymous function) (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1048)
+[ERROR - 2016-09-18T04:55:19.065Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.066Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1163)
+[ERROR - 2016-09-18T04:55:19.066Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.066Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1166)
+[ERROR - 2016-09-18T04:55:19.066Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.067Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1169)
+[ERROR - 2016-09-18T04:55:19.067Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.067Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1172)
+[ERROR - 2016-09-18T04:55:19.067Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.067Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1175)
+[ERROR - 2016-09-18T04:55:19.067Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.068Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1178)
+[ERROR - 2016-09-18T04:55:19.068Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.068Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1181)
+[ERROR - 2016-09-18T04:55:19.068Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.068Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1184)
+[ERROR - 2016-09-18T04:55:19.068Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.068Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1187)
+[ERROR - 2016-09-18T04:55:19.068Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.069Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1190)
+[ERROR - 2016-09-18T04:55:19.100Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.100Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1193)
+[ERROR - 2016-09-18T04:55:19.101Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.101Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1196)
+[ERROR - 2016-09-18T04:55:19.101Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.101Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1199)
+[ERROR - 2016-09-18T04:55:19.102Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.102Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1202)
+[ERROR - 2016-09-18T04:55:19.102Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.102Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1205)
+[ERROR - 2016-09-18T04:55:19.103Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - msg: ReferenceError: Can't find variable: viewCompleteImageLoaded
+[ERROR - 2016-09-18T04:55:19.103Z] Session [0bd35000-7d5c-11e6-9809-d50b7113b2cc] - page.onError - stack:
+  onload (https://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Acables:1208)
+[INFO  - 2016-09-18T04:55:20.080Z] ShutdownReqHand - _handle - About to shutdown

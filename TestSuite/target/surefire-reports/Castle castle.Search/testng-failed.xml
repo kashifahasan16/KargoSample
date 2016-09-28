@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Castle castle.Search]" parallel="tests">
+  <parameter name="useCloudEnv" value="true"/>
+  <parameter name="os" value="mac"/>
+  <parameter name="accessKey" value="9c614a02-865d-4af6-b227-346f89ef0f84"/>
+  <parameter name="browserVersion" value="47.0"/>
+  <parameter name="browserName" value="firefox"/>
+  <parameter name="userName" value="jawad083"/>
+  <parameter name="url" value="http://www.castle.com/"/>
+  <test name="Castle castle.Search">
+    <classes>
+      <class name="castle.Privacy"/>
+    </classes>
+  </test> <!-- Castle castle.Search -->
+</suite> <!-- Failed suite [Castle castle.Search] -->

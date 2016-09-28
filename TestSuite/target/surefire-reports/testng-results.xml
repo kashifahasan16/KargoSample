@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Castle castle.Search" duration-ms="34352" started-at="2016-09-06T06:54:36Z" finished-at="2016-09-06T06:55:10Z">
+    <groups>
+    </groups>
+    <test name="Castle castle.Search" duration-ms="34352" started-at="2016-09-06T06:54:36Z" finished-at="2016-09-06T06:55:10Z">
+      <class name="castle.Privacy">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:castle.Privacy@13c78c0b]" name="setUp" is-config="true" duration-ms="20472" started-at="2016-09-05T23:54:36Z" finished-at="2016-09-05T23:54:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jawad083]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9c614a02-865d-4af6-b227-346f89ef0f84]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[47.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.castle.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="privacy()[pri:0, instance:castle.Privacy@13c78c0b]" name="privacy" duration-ms="13640" started-at="2016-09-05T23:54:56Z" finished-at="2016-09-05T23:55:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- privacy -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:castle.Privacy@13c78c0b]" name="cleanUp" is-config="true" duration-ms="224" started-at="2016-09-05T23:55:10Z" finished-at="2016-09-05T23:55:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- castle.Privacy -->
+    </test> <!-- Castle castle.Search -->
+  </suite> <!-- Castle castle.Search -->
+  <suite name="Castle castle.Search (0)" duration-ms="15750" started-at="2016-09-06T06:55:11Z" finished-at="2016-09-06T06:55:26Z">
+    <groups>
+    </groups>
+    <test name="Castle castle.Search" duration-ms="15750" started-at="2016-09-06T06:55:11Z" finished-at="2016-09-06T06:55:26Z">
+      <class name="ebay.SignIn">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:ebay.SignIn@6ea12c19]" name="setUp" is-config="true" duration-ms="10337" started-at="2016-09-05T23:55:11Z" finished-at="2016-09-05T23:55:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jawad083]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9c614a02-865d-4af6-b227-346f89ef0f84]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mac]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[47.0.1]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.ebay.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signIn()[pri:0, instance:ebay.SignIn@6ea12c19]" name="signIn" duration-ms="4959" started-at="2016-09-05T23:55:21Z" finished-at="2016-09-05T23:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:ebay.SignIn@6ea12c19]" name="cleanUp" is-config="true" duration-ms="452" started-at="2016-09-05T23:55:26Z" finished-at="2016-09-05T23:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- ebay.SignIn -->
+    </test> <!-- Castle castle.Search -->
+  </suite> <!-- Castle castle.Search (0) -->
+</testng-results>

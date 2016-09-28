@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Castle castle.Search" parallel="tests">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="userName" value="rahmanww"/>
+    <parameter name="accessKey" value="6f132866-de72-43fd-b49a-e6f81d26bfe3"/>
+    <parameter name="os" value="mac"/>
+    <parameter name="browserName" value="firefox"/>
+    <parameter name="browserVersion" value="47.0.1"/>
+    <parameter name="url" value="http://www.ebay.com/"/>
+
+    <test name = "Castle castle.Search">
+        <classes>
+
+
+            <!--<class name="ebay.Search"/>-->
+            <!--<class name="ebay.Register"/>-->
+            <class name="ebay.SignIn"/>
+            <!--<class name="ebay.AppleMusic"/>-->
+
+        </classes>
+
+
+    </test>
+
+</suite>
